@@ -8,5 +8,6 @@ System.out.println("Benny");
 public static void main(String[] args) {
 	Client cl = new Client();
 	cl.ClientName();
+	cl.ClientName();
 }
 }
